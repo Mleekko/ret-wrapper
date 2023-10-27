@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>radix.ret</groupId>
     <artifactId>ret-wrapper</artifactId>
-    <version>0.1.1-SNAPSHOT</version>
+    <version>0.1.0-SNAPSHOT</version>
     <name>ret-wrapper</name>
     <description>Wrapper that allows using Kotlin Radix Engine Toolkit from Java</description>
     <packaging>jar</packaging>
